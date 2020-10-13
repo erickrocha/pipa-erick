@@ -18,7 +18,7 @@
         <java.version>1.8</java.version>
         <io.springfox.springfox-swagger2>2.9.2</io.springfox.springfox-swagger2>
         <io.springfox.springfox-swagger-ui>2.9.2</io.springfox.springfox-swagger-ui>
-        <junit-version>4.13</junit-version>
+        <junit-version>4.13.1</junit-version>
         <mockito-version>1.10.19</mockito-version>
     </properties>
 
